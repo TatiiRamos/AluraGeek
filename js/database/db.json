@@ -1,0 +1,55 @@
+{
+    "productos": [{
+      "products": [
+        {
+          "id": 1,
+          "name": "Figura de Goku",
+          "price": "$25.00",
+          "url": "https://via.placeholder.com/200x150?text=Goku+Figura"
+        },
+        {
+          "id": 2,
+          "name": "Camiseta Star Wars",
+          "price": "$18.00",
+          "url": "https://via.placeholder.com/200x150?text=Star+Wars+Camiseta"
+        },
+        {
+          "id": 3,
+          "name": "Taza Geek",
+          "price": "$12.00",
+          "url": "https://via.placeholder.com/200x150?text=Taza+Geek"
+        },
+        {
+          "id": 4,
+          "name": "Mouse Pad Gamer",
+          "price": "$10.00",
+          "url": "https://via.placeholder.com/200x150?text=Mouse+Pad+Gamer"
+        },
+        {
+          "id": 5,
+          "name": "Lámpara Iron Man",
+          "price": "$30.00",
+          "url": "https://via.placeholder.com/200x150?text=Iron+Man+Lamp"
+        },
+        {
+          "id": 6,
+          "name": "Poster Spiderman",
+          "price": "$8.00",
+          "url": "https://via.placeholder.com/200x150?text=Spiderman+Poster"
+        },
+        {
+          "id": 7,
+          "name": "Mochila Geek",
+          "price": "$35.00",
+          "url": "https://via.placeholder.com/200x150?text=Mochila+Geek"
+        },
+        {
+          "id": 8,
+          "name": "Cómic Batman",
+          "price": "$15.00",
+          "url": "https://via.placeholder.com/200x150?text=Batman+Comic"
+        }
+      ]
+    }
+  ]
+  }
